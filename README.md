@@ -1,2 +1,2 @@
 # data-analytics-practice-project
-Data Analytics, dashboarding, power-Bi
+Data Analytics on a hospitality dataset to create a dashboard in powerbi based on possible client requirements
